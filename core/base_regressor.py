@@ -1,4 +1,4 @@
-from .predictor import BasePredictor
+from .base_predictor import BasePredictor
 from abc import abstractmethod
 import pandas as pd
 
