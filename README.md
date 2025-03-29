@@ -2,7 +2,7 @@
 
 **Чистый Python фреймворк для машинного обучения**  
 Платформа с модульной архитектурой, реализующая алгоритмы "с нуля".  
-Вдохновлено scikit-learn, но под капотом — только стандартная библиотека Python.
+Вдохновлено scikit-learn, но под капотом — только стандартная библиотека Python, Pandas и NumPy.
 
 ![Project Status: Active](https://img.shields.io/badge/status-active-brightgreen.svg)
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
