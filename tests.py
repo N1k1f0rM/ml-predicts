@@ -2,7 +2,7 @@ import numpy as np
 from sklearn.datasets import load_diabetes
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
-from models.linear.LinearReg import LinReg
+from models.linear.linear_regression import LinReg
 
 # X = np.random.randn(200, 20)
 # y = np.random.randn(200)
